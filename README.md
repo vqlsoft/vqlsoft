@@ -1,9 +1,21 @@
-i use Arch btw
+```
+   |\_/|
+   /O.O\ !
+   \_^_/  ,\
+   /   \,/ /
+  /_\l/_\,'
+```
 
-- email: <valefox@disroot.org>
-- xmpp: [valefox@xmpp.is](xmpp:valefox@xmpp.is)
+Meow, I'm Val :3c
+
+### Contact Me
+I prefer email or XMPP:
+
+Email: <valefox@disroot.org>
+
+XMPP: [valefox@xmpp.is](xmpp:valefox@xmpp.is)
 <details>
-<summary>public gpg key</summary>
+<summary>My public GPG key (click to see)</summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -61,12 +73,3 @@ Cz4OdFtn3aNjk7aDUnwCgLE6G13Wmkmj
 ```
 
 </details>
-
-```
-   |\_/|
-   /O.O\ !
-   \_^_/  ,\
-   /   \,/ /
-  /_\l/_\,'
-```
-:3
