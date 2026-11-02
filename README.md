@@ -9,8 +9,6 @@
 Meow, I'm Val :3c
 
 ### Contact Me
-I prefer email or XMPP:
-
 Email: <valefox@disroot.org>
 
 XMPP: [valefox@xmpp.is](xmpp:valefox@xmpp.is)
