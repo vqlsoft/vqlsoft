@@ -9,9 +9,16 @@
 Meow, I'm Val :3c
 
 ### Contact Me
-Email: <valefox@disroot.org>
+> These are encoded into base64 to prevent spam bots from emailing me. To get my email/XMPP, just copy and paste these commands into your terminal.
 
-XMPP: [valefox@xmpp.is](xmpp:valefox@xmpp.is)
+Email:
+```bash
+echo "dmFsZWZveEBkaXNyb290Lm9yZw==" | base64 -d
+```
+XMPP:
+```bash
+echo "dmFsZWZveEB4bXBwLmlz" | base64 -d
+```
 <details>
 <summary>My public GPG key (click to see)</summary>
 
